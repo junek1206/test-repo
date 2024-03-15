@@ -6,12 +6,6 @@
 Test Repository/
 ***
 
-*hi
-
-  +hello
-  
-  -what
-
 **BOLD**
 _leaning_
 ~~no~~
